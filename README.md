@@ -1,6 +1,6 @@
 # Light Fixture Prototype
 
-This prototype was designed to simulate a light fixture in a greenhouse for farmers’ crops. As various geographical locations do not provide the optimal amount of light for crops to prosper, supplemental lighting is required. This lighting is often in a red to blue ratio, creating a pink colour unpleasant for greenhouse workers. The objective of this light fixture is to add white light for workers to use when they are present. 
+This Raspberry Pi Pico prototype using Python was designed to simulate a light fixture in a greenhouse for farmers’ crops. As various geographical locations do not provide the optimal amount of light for crops to prosper, supplemental lighting is required. This lighting is often in a red to blue ratio, creating a pink colour unpleasant for greenhouse workers. The objective of this light fixture is to add white light for workers to use when they are present. 
 
 ![](https://github.com/JuliaLWang8/Light-Fixture-Prototype/blob/main/Circuit.jpg?raw=true)
 
